@@ -1,0 +1,8 @@
+data.sqlite
+fill.php
+.phpunit.result.cache
+composer.json
+composer.lock
+/doc/
+/vendor/
+

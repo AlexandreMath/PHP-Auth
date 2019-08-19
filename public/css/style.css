@@ -1,0 +1,26 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+body{background: #bec0b836 !important;}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+
+.fa-anchor,.fa-coffee {font-size:200px}
+
+.bg-color-nav{
+    background: linear-gradient(#5b9291, #5b92919c, #bec0b836);
+    color: #fff;
+}
+.w3-tblue{
+    background: #5b9291 !important;
+    color: #fff !important;
+}
+.danger{
+    background: #dd332098 !important;
+    border: 1px solid #dd3320ec;
+    border-radius: 5px;
+    color: #b31a1f !important;
+}
+.success{
+    background: #96bf65ab !important;
+    border: 1px solid #96bf65ec;
+    border-radius: 5px;
+    color: #3e4630 !important;
+}
